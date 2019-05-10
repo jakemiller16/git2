@@ -1,0 +1,46 @@
+/* this style will apply to the whole body... */
+body {
+    background-color: orange;
+}
+a {
+    color: green;
+}
+.container {
+    margin: 0 auto;
+    width: 1366px;
+    height: 768px;
+    background-color: #5D5C61;
+
+}
+.banner {
+    width: 1366px;
+    height: 215px;
+    float: left;
+    color: white;
+    background-color: #7395AE;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 75px;
+    text-align: center;
+}
+.nav{
+    width: 215px;
+    height: 553px;
+    float: left;
+    background-color: #557A95;
+}
+.content{
+    width: 1121px;
+    height: 523px;
+    background-color: white;
+    float: left;
+    padding: 15px;
+}
+
+.testDiv{
+    width: 200px;
+    height: 200px;
+    background-color: #599CFF;
+    float: right;
+    padding: 15px;
+}
+
